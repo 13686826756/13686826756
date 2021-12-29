@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13686826756
+- 👋 Hi, I’m Turing's Cat
 - 👀 I’m interested in reading and drawing.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on programming.
